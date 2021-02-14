@@ -20,11 +20,11 @@ under the License.
 ## Disclaimers and notes
 
 * The content of this document, and related media, are in **Draft** status, and is work-in-progress
-* The content of this document is **input to**, not a proposal _to_ or _from_, the Events in CI workgroup/SIG.
+* The content of this document is **input to**, not a proposal _to_ or _from_, the Events in CI/CD workgroup/SIG.
 * This document only provides an **overview** of the concepts described therein, and more information about any concept can be supplied (or created) if desired.
 
 "Enterprise-Scale CI" (ESCI) is the working title of a series of concepts, strategies and solutions for continuous integration of
-complex multi-component products using multi-level integration processes. It is **not** a one-size-fits-all solution for all types of CI.
+complex multi-component products using multi-level integration processes. It is **not** a one-size-fits-all solution for all types of CI/CD.
 While we (doWhile) believe it can be applied to most CI flows, ESCI (and similar strategies) has mainly been used and/or observed by us for CI of products that involve multiple hardware units running software (e.g. telecom backbone, autonomous drive vehicles etc.). 
 
 This means many of the concepts described in this document might seem like "overkill" for many use cases, which is acceptable and expected.
